@@ -15,7 +15,7 @@ Para la instalacion del proyecto lo primero que hay que hacer es clonar el repos
 
 - Una vez clonado lo siguiente es escribir el siguiente comando: `npm install` Esto es para instalar las dependencias del proyecto y funcione correctamente.
 
-- Copiar el archivo `.env.example` y renombrarlo con `.env` en ese archivo se colocara las configuraciones necesarias, por ejemplo la conexion hacia la base de datos y la palabra secreta que usa el jsonwebtoken.
+- Copiar el archivo `.env.example` y renombrarlo con `.env` en ese archivo se colocara las configuraciones necesarias, por ejemplo la conexion hacia la base de datos y la palabra secreta que usa el jsonwebtoken (puede utilizar cualquier palabra que contenga numeros y caracteres especiales).
 
 - Sobre la base de datos es una conexion a MySQL.
     
